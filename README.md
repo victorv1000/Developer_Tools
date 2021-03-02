@@ -10,6 +10,10 @@ Atom
 https://atom.io/
 A hackable text editor for the 21st Century
 
+Iterm2
+https://iterm2.com/
+iTerm2 is a replacement for Terminal and the successor to iTerm. It works on Macs with macOS 10.14 or newer. iTerm2 brings the terminal into the modern age with features you never knew you always wanted.
+
 
 Homebrew
 https://brew.sh/
@@ -31,3 +35,11 @@ Franz is your messaging app for WhatsApp, Facebook Messenger, Slack, Telegram an
 Postman
 https://www.getpostman.com/
 Simplify workflows and create better APIs – faster – with Postman, a collaboration platform for API development.
+
+Finops Foundation
+https://www.finops.org/what-is-finops/
+https://github.com/finopsfoundation/kpis
+
+Slack/Discord
+https://slack.com/
+https://discord.com/
